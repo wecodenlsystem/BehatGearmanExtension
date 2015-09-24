@@ -1,9 +1,9 @@
 {
-    "name": "vipsoft/gearman-extension",
+    "name": "wecodenlsystem/gearman-extension",
     "type": "library",
     "description": "Gearman extension for Behat",
     "keywords": ["behat", "bdd", "gearman", "job", "worker", "parallel"],
-    "homepage": "http://github.com/vipsoft/",
+    "homepage": "https://github.com/wecodenlsystem/BehatGearmanExtension",
     "license": "MIT",
     "authors": [
         {
